@@ -57,7 +57,7 @@ void drawScene()
     x = DrawString(x,y, "Hello World!. My nick is ");
     SetFontColor(0x00ff00ff, 0x0);
     SetCurrentFont(0);
-    x = DrawString(x,y, "Hermes ");
+    x = DrawString(x,y, "THOMAZSIX96 ");
     SetCurrentFont(1);
     SetFontColor(0xffffffff, 0x0);
     x = DrawString(x,y, "and this is one sample working with\nfonts.");

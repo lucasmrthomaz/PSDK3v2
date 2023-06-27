@@ -150,7 +150,7 @@ void drawScene()
 
     SetCurrentFont(0);
     SetFontColor(0x00ff00ff, 0x0);
-    x = DrawString(x, y, "Hermes ");
+    x = DrawString(x, y, "THOMAZSIX96 ");
 
     SetCurrentFont(1);
     SetFontColor(0xffffffff, 0x0);

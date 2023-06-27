@@ -10,7 +10,7 @@ endif
 #---------------------------------------------------------------------------------
 #  TITLE, APPID, CONTENTID, ICON0 SFOXML before ppu_rules.
 #---------------------------------------------------------------------------------
-TITLE		:=	Fonts TTF - Tiny3D
+TITLE		:=	ThomazSIX96 Demo 05
 APPID		:=	FONTSTTF1
 CONTENTID	:=	UP0001-$(APPID)_00-0000000000000000
 
